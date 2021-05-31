@@ -25,7 +25,7 @@
 - 디자인 컨셉: 달빛 기행이라는 주제 속에서 전체적으로 은은하고 어두운 분위기를 연출.
 - 개발 방식 : Agile / scrum 방식을 활용하여 정해진 날짜 까지 반응형 기능을 구현 및 6명의 인원르 각각 2명씩 나누어 짝코딩.  
 
-<img src="./img/ui2.png" width:"250">
+<img src="./img/ui2.png"  width="500">
  </div>
 </details>
 
@@ -37,7 +37,7 @@
 - 주제에 관련하여 내용은 한국문화재단에서 제공하는(https://www.chf.or.kr/) 창덕궁 정보를 참고. 
 - 반응형 기능들은 https://www.webjangi.com/ 를 참고하여 디자인에 맞게 구성.
 
- <img src="./img/ui2.png"  width="500">
+<img src="./img/ui1.png"  width="500">
 
  </div>
 </details>
@@ -90,7 +90,6 @@
 <summary> <b> 4. 평가 (Embody) </b> </summary>
 <div markdown="1">
 
-<img src="./img/MVC.png"  width="500">
  
 - 위와 같이 Package 및 Class 를 구성(상세 파일 정보는 업로드 파일을 참조)
 
