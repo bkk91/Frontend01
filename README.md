@@ -31,7 +31,7 @@
 </details>
 
 <details>
-<summary> <b> 2. 화면설계 (Analysis) </b> </summary>
+<summary> <b> 2. 화면설계 (UI Design) </b> </summary>
 <div markdown="1">
 
 - 화면 설계는 app.diagrams.net에서 기본 설계도를 작성 후  https://jeongyunlee.github.io/2021-Earthday/index.html 의 구성을 참고,
@@ -44,7 +44,7 @@
 </details>
 
 <details>
-<summary> <b> 3. 화면구현 (Design) </b> </summary>
+<summary> <b> 3. 화면구현 (UI Implementation) </b> </summary>
 <div markdown="1">
  
 ###### Header
